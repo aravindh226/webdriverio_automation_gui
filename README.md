@@ -6,8 +6,8 @@ Following tools were installed:
     3.Node.js 12.18.1
     4.PowerShell 7.1.1.0
     5.Visual Studio Code 1.53.1
-    6.NPM, Chai, Devtools and Allure report
-    7.Geckodriver 0.29.0 //To open Mozilla Firefox for Parallel testing
+    6.NPM, Chai, Devtools(Performance, Network tests), JUnit and Allure report
+    7.Geckodriver 0.29.0 //To open Mozilla Firefox for Parallel testing with Google Chrome
  
 Execute Geckodriver application file so it is in "Listening" mode. 
 
